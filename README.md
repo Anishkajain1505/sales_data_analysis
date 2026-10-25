@@ -1,10 +1,10 @@
-# 📊 Regional Sales Analysis | Python, EDA & Power BI
+# 📊 Regional Sales Analysis | Python, EDA
 
 ## 📌 Project Overview
 
 The **Regional Sales Analysis** project focuses on analyzing historical sales data to identify revenue trends, evaluate product and customer performance, understand regional differences, and uncover opportunities for business growth.
 
-The project uses data cleaning, exploratory data analysis (EDA), data visualization, and an interactive Power BI dashboard to transform raw sales data into actionable business insights.
+The project uses data cleaning, exploratory data analysis (EDA) and data visualization.
 
 The goal is to help business stakeholders make data-driven decisions related to sales strategy, product performance, customer segmentation, regional investment, and profitability.
 
@@ -28,10 +28,7 @@ This project addresses the following business questions:
 - **Pandas & NumPy** — Data manipulation and numerical analysis
 - **Matplotlib & Seaborn** — Data visualization
 - **Jupyter Notebook** — Exploratory data analysis
-- **Power BI** — Interactive dashboard and business reporting
 - **Excel / CSV** — Data storage and preparation
-
-*Update this list to reflect the tools you actually use in your implementation.*
 
 ## 📂 Project Workflow
 
@@ -42,8 +39,6 @@ This project addresses the following business questions:
 5. **Feature Engineering** — Calculate profit, profit margin, and useful date-based features.
 6. **Exploratory Data Analysis** — Analyze sales trends, products, customers, channels, and geographical performance.
 7. **Data Visualization** — Create charts to identify patterns and outliers.
-8. **Dashboard Development** — Build an interactive Power BI dashboard.
-9. **Business Recommendations** — Translate analytical findings into actionable strategies.
 
 ## 📈 Key Areas of Analysis
 
@@ -88,41 +83,15 @@ The reference analysis highlighted the following findings:
 - **Customer concentration:** A small group of high-value customers contributed disproportionately to revenue.
 - **Pricing and profitability:** Unit price showed a strong positive correlation with revenue, cost, and profit.
 
-*These findings come from the reference presentation. Recalculate and verify them against your own dataset before publishing them as results of your implementation.*
+## 🚀 Future Improvements
 
-## 📊 Power BI Dashboard
+- Enhance data visualization with more detailed charts and meaningful business insights.
+- Implement automated data-quality checks to improve data reliability.
+- Develop sales forecasting models using historical sales data.
+- Apply customer segmentation techniques using clustering algorithms.
+- Automate report generation and periodic data updates.
+- Explore building an interactive sales dashboard to make insights easier to explore.
 
-The planned dashboard can include the following pages:
-
-- **Performance Summary** — Overall sales, revenue, profit, and margin KPIs
-- **Customer Segmentation** — Customer revenue and profitability analysis
-- **Revenue Scenarios** — Revenue comparisons and scenario-based analysis
-
-Interactive filters can allow users to explore results by date, product, sales channel, state, and region, depending on the fields available in the dataset.
-
-> Add dashboard screenshots here after creating your own Power BI report.
-
-## 💡 Business Recommendations
-
-Based on the reference analysis, potential recommendations include:
-
-- Investigate seasonal sales declines and plan targeted promotions.
-- Strengthen strategies for high-performing products while evaluating underperforming SKUs.
-- Expand profitable sales channels and review channel-specific pricing.
-- Study successful markets and identify opportunities in weaker regions.
-- Monitor customer-level profit margins and review discounting practices.
-- Use sales trends to support inventory and operational planning.
-
-Recommendations should be finalized after validating the analysis and its assumptions.
-
-## 📌 Future Improvements
-
-- Add interactive filters and more advanced dashboard views.
-- Develop automated data-quality checks.
-- Build sales forecasting models using historical data.
-- Add customer segmentation using clustering techniques.
-- Automate report generation and periodic data refreshes.
-- Publish a portfolio-friendly dashboard demo where practical.
 ---
 
-*If you find this project useful, consider giving the repository a star ⭐.*
+⭐ If you find this project useful, consider giving this repository a star!
